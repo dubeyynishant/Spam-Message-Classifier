@@ -12,7 +12,7 @@ It supports both **single message prediction** and **bulk message prediction**, 
 
 ## 📸 Application Preview
 
-![Spam Classifier App](https://github.com/dubeyynishant/Spam-Message-Classifier/Spam%20Detection.png)
+![Spam Classifier App](https://github.com/dubeyynishant/Spam-Message-Classifier/tree/main/Spam%20Detection.png)
 
 ---
 

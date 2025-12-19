@@ -1,5 +1,0 @@
-Python
-Streamlit
-Scikit-learn
-Pandas
-Joblib

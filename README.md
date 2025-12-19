@@ -10,6 +10,10 @@ It supports both **single message prediction** and **bulk message prediction**, 
 
 ---
 
+## 📸 Application Preview
+
+![Spam Classifier App]("Spam%20Detection.png")
+
 ## ✨ Features
 
 * ✅ Predict spam or ham for a single message
